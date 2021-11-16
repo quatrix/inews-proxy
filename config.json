@@ -1,0 +1,5 @@
+{
+  "inewsAddr": "192.168.1.13",
+  "webServicesAddr": "localhost:8080",
+  "Lineup":["lineup1","SHOW.ALEX.TEST1","oooo","lineup4","lineup5"]
+}
